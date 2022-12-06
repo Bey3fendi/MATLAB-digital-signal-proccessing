@@ -1,2 +1,2 @@
 # MATLAB-digital-signal-proccessing
-İmage and sound processing project in matlab
+Some image and sound processing projects in matlab
